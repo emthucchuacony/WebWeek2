@@ -1,0 +1,14 @@
+
+
+#section_normal_1 {
+    width: 1890px;
+    background-color: #ffffff;
+    height: 66px;
+}
+ .sixteen.columns {
+   display: flex;
+     justify-content: space-between;
+}
+
+
+
